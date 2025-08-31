@@ -1,4 +1,4 @@
-📊 Jira Metrics API
+📊 Jira Metrics
 API para gestão de Casos de Teste (NFTs), Bugs e Sub-Bugs, com cálculo automático de métricas mensais por projeto.
 
 ⚙️ Tecnologias
