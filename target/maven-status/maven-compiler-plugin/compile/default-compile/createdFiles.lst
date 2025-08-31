@@ -1,0 +1,17 @@
+com\empresa\jirametrics\dto\MetricsReport.class
+com\empresa\jirametrics\model\Bug$BugBuilder.class
+com\empresa\jirametrics\dto\MetricsReport$MetricsReportBuilder.class
+com\empresa\jirametrics\model\Bug.class
+com\empresa\jirametrics\repository\TestCaseRepository.class
+com\empresa\jirametrics\controller\TestCaseController.class
+com\empresa\jirametrics\repository\BugRepository.class
+com\empresa\jirametrics\controller\MetricsController.class
+com\empresa\jirametrics\model\TestCase.class
+com\empresa\jirametrics\service\MetricsService.class
+com\empresa\jirametrics\model\SubBug.class
+com\empresa\jirametrics\model\TestCase$TestCaseBuilder.class
+com\empresa\jirametrics\controller\BugController.class
+com\empresa\jirametrics\JiraMetricsApplication.class
+com\empresa\jirametrics\controller\SubBugController.class
+com\empresa\jirametrics\repository\SubBugRepository.class
+com\empresa\jirametrics\model\SubBug$SubBugBuilder.class
